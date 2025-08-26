@@ -54,11 +54,11 @@ function Home() {
 
                     <div >
                         <div className="text-6xl font-bold py-2">
-                            <h1 >My Awsome  </h1>
+                            <h1 >My Awasome  </h1>
                             <h1 className="text-red-500 py-2">Services</h1>
                         </div>
 
-                        <p className='my-2'>I have attahed my Resume here for your Reference</p>
+                        <p className='my-2'>I have attached my Resume here for your Reference</p>
                         <button className="bg-red-300 p-1 outline-none my-2 text-lg rounded-lg shadow-sm shadow-black" >Download CV</button>
 
                     </div>
